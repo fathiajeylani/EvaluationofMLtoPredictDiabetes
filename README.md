@@ -17,6 +17,11 @@ The decision tree was very robust and even after decreasing the depth, the model
 
 In addition to the overall performance of the two models, confusion matrix and the area under the curve (AUC) were used to further evaluate the accuracies. Again with this evaluation, the random forest model performed better. Both the confusion matrix and AUC is shown below 
 
+![image](https://github.com/fathiajeylani/EvaluationofMLtoPredictDiabetes/assets/99691983/f3ce184f-e365-498b-bdfa-89e9e8289989)
+
+![image](https://github.com/fathiajeylani/EvaluationofMLtoPredictDiabetes/assets/99691983/6b09eccd-9359-4fb2-a330-b278bd8abf39)
+
+
 ![image](https://github.com/fathiajeylani/EvaluationofMLtoPredictDiabetes/assets/99691983/94f041ee-7f4d-49d3-a6a0-75a0f8e85a20)
 
 ![image](https://github.com/fathiajeylani/EvaluationofMLtoPredictDiabetes/assets/99691983/cc9dbe2f-175d-4bc0-93eb-a6540e730666)
